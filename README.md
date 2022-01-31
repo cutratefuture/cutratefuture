@@ -1,6 +1,6 @@
 [![header](./header.jpg)](https://github.com/cutratefuture)
 
- I like web dev, graphic design, make music and experiment on my servers.
+I like web dev, graphic design, making music and experimenting on my servers.
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning javascript
