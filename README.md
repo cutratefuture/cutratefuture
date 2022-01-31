@@ -1,8 +1,6 @@
 ### hey
 
-<p align="center">
-  I like web design, music and experimenting with web stacks on my servers.
-</p> 
+ I like web design, music and experimenting with web stacks on my servers.
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning javascript
