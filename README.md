@@ -39,7 +39,3 @@ I like web dev, graphic design, making music and experimenting on my servers.
 <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
 </p>
-
-<p align = "center">
- <img  src="http://github-readme-streak-stats.herokuapp.com?user=cutratefuture&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-</p> 
