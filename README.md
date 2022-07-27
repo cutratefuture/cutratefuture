@@ -2,11 +2,6 @@
 
 I like web dev, graphic design, making music and experimenting on my servers.
 
-- 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning javascript
-- 👯 I’m looking to collaborate on cool music/social projects
-- ⚡ Fun fact: I play bass 🎸
-
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white"/>
