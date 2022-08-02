@@ -1,6 +1,6 @@
 [![header](./header.jpg)](https://github.com/cutratefuture)
 
-I like web dev, graphic design, making music and experimenting on my servers.
+i make things
 
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
