@@ -77,7 +77,7 @@ Freelance web developer with a burning love/hate relationship with code and tech
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
     <img src="http://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=flat&logo=VirtualBox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=flat&logo=VirtualBox&logoColor=white"/>
     <h4>Productivity</h4>
     <img src="http://img.shields.io/badge/-ONLYOFFICE-444444?style=flat&logo=ONLYOFFICE&logoColor=white"/>
     <img src="http://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
