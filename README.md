@@ -1,6 +1,8 @@
 [![header](./header.jpg)](https://github.com/cutratefuture)
 
+<p align="center">
 i make things
+</p>
 
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
