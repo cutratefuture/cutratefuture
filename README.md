@@ -1,7 +1,7 @@
 [![header](./header.jpg)](https://github.com/cutratefuture)
 
 <p align="center">
-Freelance web developer with a burning love/hate relationship with code and technology. I break things and build them up better. An eternal student of development and techniques. 
+An eternal student of web development and coding techniques.
 </p>
 
 <div align="center">
@@ -92,5 +92,5 @@ Freelance web developer with a burning love/hate relationship with code and tech
 <h2 align="center">Socials</h2>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/christian-vasquez-aa071b247/"><img src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedIn&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/cutratefuture/"><img src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedIn&logoColor=white"/></a>
 </div>
