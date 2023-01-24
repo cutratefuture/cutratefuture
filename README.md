@@ -1,7 +1,7 @@
 [![header](./header.jpg)](https://github.com/cutratefuture)
 
 <p align="center">
-An eternal student of web development and coding techniques.
+    code commit
 </p>
 
 <div align="center">
